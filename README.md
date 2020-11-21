@@ -15,3 +15,9 @@ Source: [The Hard Thing about Hard Things](https://books.google.de/books?id=620p
 > "Set unattainable goals, and then fail well."
 
 Source: [How Google works](https://www.slideshare.net/ericschmidt/how-google-works-final-1#44)
+
+#### Ben Treynor Sloss
+
+> "Measurement is the root of progress"
+
+Source: [All Day DevOps 2020 Ask Me Anything Keynote: Site Reliability Engineering ](https://content.sonatype.com/2020addo-keynotes)
