@@ -21,3 +21,11 @@ Source: [How Google works](https://www.slideshare.net/ericschmidt/how-google-wor
 > "Measurement is the root of progress"
 
 Source: [All Day DevOps 2020 Ask Me Anything Keynote: Site Reliability Engineering ](https://content.sonatype.com/2020addo-keynotes)
+
+#### Annie Duke
+
+> Betting is merely “a decision about an uncertain future,” and our opponents
+are not other people but, rather, hypothetical versions of ourselves who have
+chosen differently than we have
+
+Source: [Annie Duke Will Beat You at Your Own Game](https://www.newyorker.com/culture/persons-of-interest/annie-duke-will-beat-you-at-your-own-game)
